@@ -1,9 +1,0 @@
-POST http://0.0.0.0:8000/postSchool
-Content-Type: application/json
-
-{
-  "name": "test"
-}
-
-
-http://0.0.0.0:8000/getSchools
